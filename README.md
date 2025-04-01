@@ -1,1 +1,2 @@
 # SalesforceComponent
+Componenti da utilizzare 
